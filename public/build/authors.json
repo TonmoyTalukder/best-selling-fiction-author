@@ -1,0 +1,152 @@
+[
+    {
+      "_id": "614f61a6ce87214369754814",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg",
+      "name": "William Shakespeare",
+      "age": 52,
+      "country": "England",
+      "notable_work": "Romeo and Juliet",
+      "estimated_sale": 4,
+      "total_books": 42
+    },
+    {
+      "_id": "614f61a62dfe1f827f7c6123",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Agatha_Christie.png",
+      "name": "Agatha Christie",
+      "age": 85,
+      "country": "England",
+      "notable_work": "Hercule Poirot",
+      "estimated_sale": 4,
+      "total_books": 85
+    },
+    {
+      "_id": "614f61a6eb1edef8981f691d",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dame_Barbara_Cartland_Allan_Warren.jpg",
+      "name": "Barbara Cartland",
+      "age": 98,
+      "country": "England",
+      "notable_work": "These Old Shades",
+      "estimated_sale": 1,
+      "total_books": 723
+    },
+    {
+      "_id": "614f61a6816d08abc891ebc0",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Harold_Robbins_%281979%29.jpg/330px-Harold_Robbins_%281979%29.jpg",
+      "name": "Harold Robbins",
+      "age": 81,
+      "country": "USA",
+      "notable_work": "The Carpetbaggers",
+      "estimated_sale": 0.750,
+      "total_books": 23
+    },
+    {
+      "_id": "614f61a6536d72a48e4620cc",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Georges_Simenon_%281963%29_without_hat_by_Erling_Mandelmann.jpg",
+      "name": "Georges Simenon",
+      "age": 86,
+      "country": "Belgian",
+      "notable_work": "Maigret",
+      "estimated_sale": 0.700,
+      "total_books": 570
+    },
+    {
+      "_id": "614f61a6008b57acc48dfa15",
+      "picture": "https://upload.wikimedia.org/wikipedia/en/a/a3/Enid_Blyton_2.jpg",
+      "name": "Enid Blyton",
+      "age": 71,
+      "country": "England",
+      "notable_work": "The Famous Five",
+      "estimated_sale": 0.600,
+      "total_books": 800
+    },
+    {
+      "_id": "614f61a6329e9bbb3fd95266",
+      "picture": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sidney_Sheldon.jpg",
+      "name": "Sidney Sheldon",
+      "age": 89,
+      "country": "USA",
+      "notable_work": "The Other Side of Midnight",
+      "estimated_sale": 0.600,
+      "total_books": 21
+    },
+    {
+      "_id": "614f61a625fe468310f1f52e",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/330px-J._K._Rowling_2010.jpg",
+      "name": "J. K. Rowling",
+      "age": 56,
+      "country": "England",
+      "notable_work": "Harry Potter",
+      "estimated_sale": 0.500,
+      "total_books": 15
+    },
+    {
+      "_id": "614f61a65ac5fc419e7fd5dc",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akira_Toriyama.jpg",
+      "name": "Akira Toriyama",
+      "age": 66,
+      "country": "Japan",
+      "notable_work": "Dragon Ball",
+      "estimated_sale": 0.438,
+      "total_books": 66
+    },
+    {
+      "_id": "614f61a6064bf451369f7270",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/330px-L.N.Tolstoy_Prokudin-Gorsky.jpg",
+      "name": "Leo Tolstoy",
+      "age": 82,
+      "country": "Russia",
+      "notable_work": "War and Peace",
+      "estimated_sale": 0.413,
+      "total_books": 48
+    },
+    {
+      "_id": "614f61a6a7349fbf487df7f8",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Corin_Tellado_cropped2.jpg",
+      "name": "Corín Tellado",
+      "age": 81,
+      "country": "Spain",
+      "notable_work": "Lucha oculta",
+      "estimated_sale": 0.400,
+      "total_books": 4000
+    },
+    {
+      "_id": "614f61a6411c90e084233a15",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ren%C3%A9_Goscinny.jpg/330px-Ren%C3%A9_Goscinny.jpg",
+      "name": "René Goscinny",
+      "age": 51,
+      "country": "France",
+      "notable_work": "Asterix",
+      "estimated_sale": 0.325,
+      "total_books": 108
+    },
+    {
+      "_id": "614f61a6bbc4db2ad74bfc73",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/0/03/Fr%C3%A9d%C3%A9ric_Dard_%281992%29_by_Erling_Mandelmann.jpg",
+      "name": "Frédéric Dard",
+      "age": 80,
+      "country": "Franch",
+      "notable_work": "San-Antonio",
+      "estimated_sale": 0.270,
+      "total_books": 300
+    },
+    {
+      "_id": "614f61a6b751da2fb9b0908d",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/4/43/Carterbrown.jpg",
+      "name": "Carter Brown",
+      "age": 61,
+      "country": "Australia",
+      "notable_work": "The Lady Is Murder",
+      "estimated_sale": 0.120,
+      "total_books": 290
+    },
+    {
+      "_id": "614f61a6b5e2aecb07f68637",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dan_Brown_bookjacket_cropped.jpg/330px-Dan_Brown_bookjacket_cropped.jpg",
+      "name": "Dan Brown",
+      "age": 57,
+      "country": "USA",
+      "notable_work": "The Da Vinci Code",
+      "estimated_sale": 0.200,
+      "total_books": 7
+    }
+  ]

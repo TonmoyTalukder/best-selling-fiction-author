@@ -1,0 +1,43 @@
+.author{
+  height: 80%;
+}
+.author:hover{
+  background-color: #F5F5F5;
+  box-shadow: rgba(150, 150, 204, 0.2) 0px 7px 20px 0px;
+}
+.card{
+  width: 17rem;
+  height: 780px;
+  background-color: #DCDCDC;
+}
+.author-details {
+  margin-left: 5px;
+}
+.author-name {
+  color: rgb(67, 67, 68);
+  font-weight: 400;
+}
+.list{
+  background-color: #DCDCDC;
+}
+.list:hover{
+  background-color: #F8F8FF;
+}
+.btn-regular {
+  background-color: rgb(214, 197, 154);
+  width: 150px;
+  height: 30px;
+  border: 1px solid rgb(167, 155, 155);
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+
+}
+
+.icon-color {
+  color: goldenrod;
+}
+.widthEitheenRem {
+  width: 18rem;
+}
