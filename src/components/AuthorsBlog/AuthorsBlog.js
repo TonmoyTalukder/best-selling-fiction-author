@@ -26,7 +26,7 @@ const AuthorsBlog = () => {
         <div className="authors container-fluid px-0">
             <div className="authors-blog-container row g-2">
                 <div className="authors-container col-9">
-                    <h1>This is Author Blog. Authors: {authors.length}</h1>
+                    <h1>This is Author Blog. Total Authors: {authors.length}</h1>
                     <div className="container-fluid">
                         <div className="authors-container row g-3 d-flex justify-content-center">
                             {
