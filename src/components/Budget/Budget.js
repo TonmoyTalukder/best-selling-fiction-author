@@ -26,10 +26,10 @@ const Budget = (props) => {
     return (
         <div className="budget">
             <div className="title">
-            <h3>Order Summary</h3>
+            <h3>Selected Authors Summary</h3>
             </div>
             <div className="text">
-            <h5>Items added: <span className="text-danger">{totalQuantity}</span></h5>
+            <h5>Authors added: <span className="text-danger">{totalQuantity}</span></h5>
             <br />
             <p>Total Books: <span className="text-danger">{total.toFixed(1)}</span></p>
             <p> Selected Aurthor Name :
